@@ -1,4 +1,5 @@
-
+This is strictly Idea submission only 
+Working prototype is built as per the next round.
 ---
 
 ## 📱 Android App
