@@ -1,3 +1,5 @@
+This is strictly Idea submission only 
+Working prototype is built as per the next round.
 # SmartSelect AI Hub Prototype — Android App
 
 This folder contains the **Android Studio project** and/or the **built `.apk` file** for the SmartSelect AI Hub prototype.
